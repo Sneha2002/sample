@@ -1,0 +1,2 @@
+Hi file to get conflict and resolve in merging
+Issue 102 in d-sneha
